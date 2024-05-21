@@ -1,0 +1,9 @@
+[
+    {
+      "orderId": 1,
+      "userId": 1,
+      "products": [1, 2],
+      "total": 69.98,
+      "date": "2024-05-21"
+    }
+  ]
