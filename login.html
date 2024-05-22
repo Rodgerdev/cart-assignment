@@ -4,17 +4,38 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Login</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+  <link rel="stylesheet" href="regstyle.css">
 </head>
 <body>
-  <h2>Login</h2>
-  <form id="loginForm" action="index.html">
-    <input type="text" id="loginUsername" placeholder="Username" required>
-    <input type="password" id="loginPassword" placeholder="Password" required>
-    <button type="submit">Login</button>
-    <h3>Don't have an account? Sign up here</h3>
-    <a href="register.html">Sign up</a>
-  </form>
-  <script src="js/login.js"></script>
+  <div class="container">
+    <div class="signin-signup">
+      <form id="loginForm" class="sign-in-form">
+        <h2 class="title">Sign In</h2>
+        <p>New to this site? <a href="register.html">Sign Up</a>.</p>  
+        <div class="input-field">
+          <i class="fas fa-user"></i>
+          <input id="loginUsername" type="text" placeholder="Username">
+        </div>
+        <div class="input-field">
+          <i class="fas fa-lock"></i>
+          <input id="loginPassword" type="password" placeholder="Password">
+        </div>
+        <input type="submit" value="Login" class="btn">
+        <p class="social-text">Or Log In with Google or Email below</p>
+        <div class="social-media">
+          <a href="#" class="social-icon">
+            <i class="fab fa-google"></i>
+          </a>
+          <a href="#" class="social-icon">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </div>
+      </form>
+      <span class="close-btn">X</span>
+    </div>
+  </div>
+
+  <script src="/js/login.js"></script>
 </body>
 </html>

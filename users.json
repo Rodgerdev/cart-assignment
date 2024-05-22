@@ -1,13 +1,160 @@
-[
+{
+  "users": [
     {
       "username": "user1",
       "email": "user1@example.com",
-      "password": "password123"
+      "password": "password123",
+      "id": "468e"
     },
-    
     {
       "username": "user2",
       "email": "user2@example.com",
-      "password": "password456"
+      "password": "password456",
+      "id": "432f"
+    },
+    {
+      "id": "a9a9",
+      "username": "Maggie",
+      "email": "maggiegeorges254@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "ac2c",
+      "username": "Dolphine",
+      "email": "dol@gmail.com",
+      "password": "dol12345"
+    },
+    {
+      "id": "ff71",
+      "username": "Rodgers",
+      "email": "rodgers@gmail.com",
+      "password": "Rodgers12345"
+    },
+    {
+      "id": "9f18",
+      "username": "Albert Weldon",
+      "email": "weldon@gmail.com",
+      "password": "welalb1234"
+    },
+    {
+      "id": "8ed9",
+      "username": "Quinter Akinyi",
+      "email": "akinyi254@gmail.com",
+      "password": "akinyi254"
+    },
+    {
+      "id": "cfdd",
+      "username": "Abdul Hassan",
+      "email": "hassanabdul@gmail.com",
+      "password": "hassan254"
+    },
+    {
+      "id": "98d9",
+      "username": "Imani",
+      "email": "imani254@gmail.com",
+      "password": "imani254"
+    },
+    {
+      "id": "f633",
+      "username": "Kapul",
+      "email": "kapul@gmail.com",
+      "password": "kapul254"
+    },
+    {
+      "id": "6f59",
+      "username": "Kim Kelly",
+      "email": "kk1@gmail.com",
+      "password": "kk254!"
+    },
+    {
+      "id": "6e4d",
+      "username": "Abel Mutua",
+      "email": "mutuaabel@gmail.com",
+      "password": "mutuaabel"
+    },
+    {
+      "id": "f1eb",
+      "username": "Judy Nyawira",
+      "email": "judy@gmail.com",
+      "password": "judy@254!"
+    },
+    {
+      "id": "6f2d",
+      "username": "Ishmael ",
+      "email": "ish@gmail.com",
+      "password": "ish12345"
+    },
+    {
+      "id": "49b8",
+      "username": "Queen ",
+      "email": "kenyaq@gmail.com",
+      "password": "kenyaq"
+    },
+    {
+      "id": "9022",
+      "username": "Kendi Christine",
+      "email": "kendiq@gmail.com",
+      "password": "kendiq12345"
+    },
+    {
+      "id": "a7ee",
+      "username": "Dereva Kanyi",
+      "email": "kanyidere@gmail.com",
+      "password": "kanyi1435"
+    },
+    {
+      "id": "5871",
+      "username": "Karen Nyamu",
+      "email": "karen254@gmail.com",
+      "password": "karen254"
+    },
+    {
+      "id": "2898",
+      "username": "Calvin",
+      "email": "calvin@gmail.com",
+      "password": "cal@254!"
+    },
+    {
+      "id": "c247",
+      "username": "Njuguna",
+      "email": "njugush@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "b370",
+      "username": "Hannah Nyambura",
+      "email": "ann254@gmail.com",
+      "password": "ann254"
+    },
+    {
+      "id": "9ff3",
+      "username": "Florence",
+      "email": "flo@gmail.com",
+      "password": "flo123"
+    },
+    {
+      "id": "4f8a",
+      "username": "Bruno Mars",
+      "email": "bruno@gmail.com",
+      "password": "bruno254"
+    },
+    {
+      "id": "9c2c",
+      "username": "Nyashinski",
+      "email": "shinski@gmail.com",
+      "password": "shinski12345"
+    },
+    {
+      "id": "6906",
+      "username": "Nyabuto Mark",
+      "email": "mark@gmail.com",
+      "password": "mark12345"
+    },
+    {
+      "id": "f3b6",
+      "username": "Mary",
+      "email": "mary@gmail.com",
+      "password": "124mary"
     }
   ]
+}
